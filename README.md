@@ -23,22 +23,6 @@ Me chamo Jullya Gabrielly, tenho 21 anos e curso Análise e Desenvolvimento de S
 
 ---
 
-## 📊 Space Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JullyaGab123&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullyaGab123&theme=tokyonight&layout=compact&hide_border=true"
-  />
-</p>
-
----
-
 ## 🌌 Fun fact
 
 ✨ Fascinada pelo universo, dados e padrões — seja em códigos, gráficos ou estrelas.
