@@ -27,12 +27,13 @@ Me chamo Jullya Gabrielly, tenho 21 anos e curso Análise e Desenvolvimento de S
 
 <p align="center">
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=JullyaGab123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=JullyaGab123&show_icons=true&theme=tokyonight&hide_border=true"
   />
+</p>
+
+<p align="center">
   <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullyaGab123&theme=tokyonight&layout=compact&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullyaGab123&theme=tokyonight&layout=compact&hide_border=true"
   />
 </p>
 
