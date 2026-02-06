@@ -1,51 +1,44 @@
 # 👩🏻‍💻 Júllya Gabrielly
+**`Space Data Dev`** 🚀✨
 
-**`Desenvolvedora de dados`**
-
-Me chamo Jullya Gabrielly, tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na UniAnchieta. Sou apaixonada por tecnologia, com grande interesse em programação, análise de dados e exploração do espaço, áreas que me motivam a aprender e evoluir constantemente na área de tecnologia.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+Me chamo Jullya Gabrielly, tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na UniAnchieta. Sou apaixonada por tecnologia, com grande interesse em **programação**, **análise de dados** e **exploração do espaço**, áreas que me motivam a aprender, pesquisar e evoluir constantemente.
 
 ---
 
-### 📊 Estatísticas
+## 🪐 Tech Stack
 
-<p>
+![Python](https://img.shields.io/badge/Python-0B3C5D?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Git](https://img.shields.io/badge/Git-1B1F3B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-2C2C54?style=for-the-badge&logo=jupyter&logoColor=F37726)
+
+---
+
+## 🌠 Áreas de Interesse
+
+🛰️ Análise de Dados  
+🌌 Astronomia & Espaço  
+🤖 Programação  
+📊 Ciência de Dados  
+
+---
+
+## 📊 Space Stats
+
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JullyaGab123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=JullyaGab123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
   <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullyaGab123&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullyaGab123&theme=tokyonight&layout=compact&langs_count=8"
   />
 </p>
+
+---
+
+## 🌌 Fun fact
+
+✨ Fascinada pelo universo, dados e padrões — seja em códigos, gráficos ou estrelas.
 
