@@ -27,4 +27,9 @@ My name is Jullya Gabrielly, I am 21 years old and I am currently studying **Sys
 
 ✨ Fascinated by the universe, data, and patterns — whether in code, charts, or stars.
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JullyaGab123/JullyaGab123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JullyaGab123/JullyaGab123/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JullyaGab123/JullyaGab123/output/github-contribution-grid-snake.svg">
+</picture>
 
