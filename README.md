@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Júllya Gabrielly
 **`Space Data Dev`** 🚀✨
 
-Me chamo Jullya Gabrielly, tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na UniAnchieta. Sou apaixonada por tecnologia, com grande interesse em **programação**, **análise de dados** e **exploração do espaço**, áreas que me motivam a aprender, pesquisar e evoluir constantemente.
+My name is Jullya Gabrielly, I am 21 years old and I am currently studying **Systems Analysis and Development** at **UniAnchieta**. I am passionate about technology, with a strong interest in **programming**, **data analysis**, and **space exploration** — areas that constantly motivate me to learn, research, and grow in tech.
 
 ---
 
@@ -14,16 +14,17 @@ Me chamo Jullya Gabrielly, tenho 21 anos e curso Análise e Desenvolvimento de S
 
 ---
 
-## 🌠 Áreas de Interesse
+## 🌠 Areas of Interest
 
-🛰️ Análise de Dados  
-🌌 Astronomia & Espaço  
-🤖 Programação  
-📊 Ciência de Dados  
+🛰️ Data Analysis  
+🌌 Astronomy & Space  
+🤖 Programming  
+📊 Data Science  
 
 ---
 
 ## 🌌 Fun fact
 
-✨ Fascinada pelo universo, dados e padrões — seja em códigos, gráficos ou estrelas.
+✨ Fascinated by the universe, data, and patterns — whether in code, charts, or stars.
+
 
