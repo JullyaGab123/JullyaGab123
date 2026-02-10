@@ -1,7 +1,11 @@
 # 👩🏻‍💻 Júllya Gabrielly
-**`Space Data Dev`** 🚀✨
+**`Software Developer | Aspiring Astroinformaticist`** 🚀✨
 
-My name is Jullya Gabrielly, I am 21 years old and I am currently studying **Systems Analysis and Development** at **UniAnchieta**. I am passionate about technology, with a strong interest in **programming**, **data analysis**, and **space exploration** — areas that constantly motivate me to learn, research, and grow in tech.
+I’m Júllya, a Systems Analysis and Development student at UniAnchieta. I’m passionate about bridging the gap between Software Engineering and Astronomy. Currently, I'm leveraging my background in tech to analyze exoplanetary data and stellar populations, turning complex datasets into cosmic insights.
+
+### 🔭 Current Research & Projects
+* **Exoplanet Habitability:** Conducting EDA on NASA’s Confirmed Planets dataset to find patterns in planetary systems.
+* **Stellar Populations:** Analyzing Gaia DR3 data to understand the solar neighborhood.
 
 ---
 
